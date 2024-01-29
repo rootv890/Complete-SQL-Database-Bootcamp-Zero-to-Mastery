@@ -7,11 +7,11 @@
 
 
 -- Question 1: What is the average salary for the company?
--- Table: Salaries
+-- Table: Salaries | 63799.360954690491
 
 
 -- Question 2: What year was the youngest person born in the company?
--- Table: employees
+-- Table: employees | 1952-02-01
 
 
 -- BEFORE YOU START
@@ -22,7 +22,7 @@
 -- 
 
 -- Question 1: How many towns are there in france?
--- Table: Towns
+-- Table: Towns | 36684
 
 
 -- BEFORE YOU START
@@ -33,12 +33,12 @@
 -- 
 
 -- Question 1: How many official languages are there?
--- Table: countrylanguage
+-- Table: countrylanguage | 984
 
 -- Question 2: What is the average life expectancy in the world?
--- Table: country
+-- Table: country | 66.486
 
 -- Question 3: What is the average population for cities in the netherlands?
--- Table: city
+-- Table: city | 185001.75
 
 
